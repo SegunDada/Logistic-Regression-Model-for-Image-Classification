@@ -1,4 +1,4 @@
-#Logistic Regression Model for Image Classification
+# Logistic Regression Model for Image Classification
 
 Welcome to the Logistic Regression Model for Image Classification project! This repository contains the implementation of a logistic regression model designed to classify whether an image is a cat or not.
 
